@@ -1,0 +1,6 @@
+{
+  "name": "Sawaal Jawaab AI",
+  "description": "An intelligent AI assistant that can answer all your questions in any language, with local history storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
